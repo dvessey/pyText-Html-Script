@@ -1,4 +1,5 @@
 # pyText-Html-Script
+<pre>
 python script to convert notes or txt files to generate a html file
 
 As I learn new things I'm constantly writing notes (Sublime Text is my go to text editor) and I got the idea, "You know what? It would be nice to be able to view my notes in a better to read format" 
