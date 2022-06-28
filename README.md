@@ -14,8 +14,8 @@ TextToHtml.py /path/to/your/document.txt nameOfYourHtmlFileYouWantToCreate.html
 The Script takes 2 command line arguments the first is your path to the document you want to convert into html format, the second is the name of the html document you want it to be saved as
 
 YOUR .txt FORMAT
-if you want a '<h1>' header, then the line in your notes MUST be all uppercase letters (if there is any special characters or lower case letters, the regex I used will not convert it into a header)
-if you want a '<ul><li>' list your list must start with a -
+if you want a header, then the line in your notes MUST be all uppercase letters (if there is any special characters or lower case letters, the regex I used will not convert it into a header)
+if you want a  list your list must start with a -
 so far this is the only functionality I needed or wanted and serves my purposes so far
 
 Ex.
@@ -23,10 +23,10 @@ Ex.
 THIS WILL BE CONVERTED TO A HEADING
 This is a paragraph and 
 will be formatted exactly as it
-is typed as I used a '<pre>' tag to help
+is typed as I used a tag to help
 keep the notes I write intact as written
 
-This is my list that will be converted to '<ul><li>':
+This is my list:
   -My list Item
   -My second list item
   -My third list item
