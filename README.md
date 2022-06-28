@@ -27,7 +27,7 @@ Ex.
 THIS WILL BE CONVERTED TO A HEADING
 This is a paragraph and 
 will be formatted exactly as it
-is typed as I used a tag to help
+is typed as I used a pre tag to help
 keep the notes I write intact as written
 
 This is my list:
