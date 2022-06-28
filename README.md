@@ -15,6 +15,7 @@ TextToHtml.py /path/to/your/document.txt nameOfYourHtmlFileYouWantToCreate.html
 
 The Script takes 2 command line arguments the first is your path to the document you want to convert into html format, 
 the second is the name of the html document you want it to be saved as
+The html document will be saved in /usr/local/bin
 
 YOUR .txt FORMAT
 if you want a header, then the line in your notes MUST be all uppercase letters 
